@@ -25,7 +25,8 @@ experiência sólida com dados reais de operação industrial.
 **Metodologias:** PDCA · Lean Six Sigma · EDA
 
 ## 📊 Projetos em destaque
-- [Sentinela — Prevenção de Churn Bancário](https://github.com/RenataaRodrigues/Projeto-sentinela-elastech-) — Sistema preditivo desenvolvido no Hackathon de Dados do programa ELASTECH+ (trilha Ada/CAIXA)
+- [Sentinela — Prevenção de Churn Bancário](https://github.com/RenataaRodrigues/Projeto-sentinela-elastech-) — Sistema preditivo desenvolvido no Hackathon de Dados do programa ELASTECH+
+- [Painel de Conciliação Financeira](https://github.com/RenataaRodrigues/Dashboard-conciliacao-delivery) — Dashboard Power BI para conciliação de taxas entre iFood, 99Food e maquininhas
 
 ## 📫 Contato
 [LinkedIn](https://linkedin.com/in/renata-rodrigues-65a57a6a) · renataamaralr@outlook.com
