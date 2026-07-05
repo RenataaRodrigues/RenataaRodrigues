@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, sou a Renata 👋
 
-<!--
-**RenataaRodrigues/RenataaRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados Jr | BI & Analytics | Setor Industrial
 
-Here are some ideas to get you started:
+Atuo com análise de dados operacionais na CSN Mineração, onde crio 
+dashboards e indicadores de manutenção e produção. Em formação 
+contínua em Ciência de Dados e Big Data (PUC Minas), expandindo 
+minha base técnica em Python, SQL e Power BI a partir de uma 
+experiência sólida com dados reais de operação industrial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiência
+**Analista de Dados Operacionais (PCM)** — CSN Mineração (2021–atual)
+- Dashboards de KPIs de manutenção e produção em Qlik Sense
+- Relatórios analíticos para diferentes níveis da operação
+- Indicadores MTBF/MTTR e metodologia PDCA/Lean Six Sigma
+
+## 🎓 Formação
+- Pós-graduação em Ciência de Dados e Big Data — PUC Minas (em andamento)
+- Bacharelado em Engenharia Mecânica — FUPAC Lafaiete
+- Trilha de Dados — Elas Tech (Ada/CAIXA)
+
+## 🔧 Competências técnicas
+**Análise & Visualização:** Qlik Sense · Power BI · Excel Avançado
+**Em desenvolvimento:** Python · SQL · Banco de Dados Relacionais
+**Metodologias:** PDCA · Lean Six Sigma · EDA
+
+## 📊 Projetos em destaque
+- [Sentinela — Prevenção de Churn Bancário](https://github.com/RenataaRodrigues/Projeto-sentinela-elastech-) — Sistema preditivo desenvolvido no Hackathon de Dados do programa ELASTECH+ (trilha Ada/CAIXA)
+
+## 📫 Contato
+[LinkedIn](https://linkedin.com/in/renata-rodrigues-65a57a6a) · renataamaralr@outlook.com
