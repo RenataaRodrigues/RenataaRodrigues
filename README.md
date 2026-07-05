@@ -13,10 +13,15 @@ experiência sólida com dados reais de operação industrial.
 - Dashboards de KPIs de manutenção e produção em Qlik Sense
 - Relatórios analíticos para diferentes níveis da operação
 - Indicadores MTBF/MTTR e metodologia PDCA/Lean Six Sigma
+- Liderei projeto de melhoria (CCQ) com metodologia PDCA, **campeão na 
+  Semana de Projetos de Melhoria Contínua** da empresa, com representação 
+  na **UBQ — União Brasileira para a Qualidade**, ao lado de empresas de 
+  todo o Brasil
 
 ## 🎓 Formação
 - Pós-graduação em Ciência de Dados e Big Data — PUC Minas (em andamento)
 - Bacharelado em Engenharia Mecânica — FUPAC Lafaiete
+- Bootcamp Master of Data Science & AI — Datatech Florida (EUA)
 - Trilha de Dados — Elas Tech (Ada/CAIXA)
 
 ## 🔧 Competências técnicas
