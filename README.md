@@ -4,7 +4,7 @@ Analista de Dados | BI & Analytics | Python · SQL · Power BI · Qlik Sense | P
 
 Atuo na CSN Mineração, onde analiso dados de manutenção e produção e 
 apresento indicadores e dashboards em Qlik Sense que apoiam a tomada de 
-decisão do negócio. Pós-graduada em Ciência de Dados e Big Data pela PUC Minas.
+decisão do negócio.
 
 ## 💼 Experiência
 **Analista de Dados Operacionais (PCM)** — CSN Mineração (2021–atual)
