@@ -18,7 +18,7 @@ a uma experiência sólida com dados reais de operação industrial.
   todo o Brasil
 
 ## 🎓 Formação
-- Pós-graduação em Ciência de Dados e Big Data — PUC Minas (concluída em 2026)
+- Pós-graduada em Ciência de Dados e Big Data — PUC Minas
 - Bacharelado em Engenharia Mecânica — FUPAC Lafaiete
 - Bootcamp Master of Data Science & AI — Datatech Florida (EUA)
 - Trilha de Dados — Elas Tech (Ada/CAIXA)
