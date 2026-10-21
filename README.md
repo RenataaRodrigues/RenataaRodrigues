@@ -1,6 +1,6 @@
 # Olá, sou a Renata 👋
 
-Analista de Dados Jr | BI & Analytics | Machine Learning & IA Aplicada
+Analista de Dados | BI & Analytics | Python · SQL · Power BI · Qlik Sense | Pós em Ciência de Dados · PUC Minas
 
 Atuo na CSN Mineração, onde analiso dados de manutenção e produção e 
 apresento indicadores e dashboards em Qlik Sense que apoiam a tomada de 
