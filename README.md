@@ -15,6 +15,9 @@ decisão do negócio.
   Semana de Projetos de Melhoria Contínua** da empresa, com representação 
   na **UBQ — União Brasileira para a Qualidade**, ao lado de empresas de 
   todo o Brasil
+- Lidero projeto Lean Six Sigma para a certificação **Yellow Belt**, 
+  aplicando DMAIC com dados da operação para reduzir as ordens de 
+  manutenção pendentes há mais tempo
 
 ## 🎓 Formação
 - Pós-graduada em Ciência de Dados e Big Data — PUC Minas
