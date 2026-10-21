@@ -1,6 +1,6 @@
 # Olá, sou a Renata 👋
 
-Analista de Dados Jr | BI & Analytics | Setor Industrial
+Analista de Dados Jr | BI & Analytics | Machine Learning & IA Aplicada
 
 Atuo com análise de dados operacionais na CSN Mineração, onde crio 
 dashboards e indicadores de manutenção e produção. Pós-graduada em 
