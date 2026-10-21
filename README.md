@@ -3,10 +3,8 @@
 Analista de Dados Jr | BI & Analytics | Machine Learning & IA Aplicada
 
 Atuo na CSN Mineração, onde analiso dados de manutenção e produção e 
-apresento indicadores e dashboards que apoiam a tomada de decisão do 
-negócio. Pós-graduada em 
-Ciência de Dados e Big Data pela PUC Minas, uno Python, SQL e Power BI 
-a uma experiência sólida com dados reais de operação industrial.
+apresento indicadores e dashboards em Qlik Sense que apoiam a tomada de 
+decisão do negócio. Pós-graduada em Ciência de Dados e Big Data pela PUC Minas.
 
 ## 💼 Experiência
 **Analista de Dados Operacionais (PCM)** — CSN Mineração (2021–atual)
