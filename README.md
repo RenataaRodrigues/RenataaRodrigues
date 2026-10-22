@@ -32,7 +32,6 @@ decisão do negócio.
 
 ## 📊 Projetos em destaque
 - [Sentinela — Prevenção de Churn Bancário](https://github.com/RenataaRodrigues/Projeto-sentinela-elastech-) — Sistema preditivo desenvolvido no Hackathon de Dados do programa ELASTECH+
-- [Painel de Conciliação Financeira](https://github.com/RenataaRodrigues/Dashboard-conciliacao-delivery) — Dashboard Power BI para conciliação de taxas entre iFood, 99Food e maquininhas
 - [Fraudes em Entregas do Walmart](https://github.com/RenataaRodrigues/Deteccao-fraudes-entregas-walmart) — Projeto final do bootcamp da Datatech Florida, com SQL, Python e Power BI para descobrir a origem dos itens faltantes
 
 ## 📫 Contato
